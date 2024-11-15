@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <section class="article-content">
+        <h2>{{ article.title }}</h2>
+		<p class="meta">Published on {{ article.date }}</p>
+	
+		{% if article.image %}
+    		<img src="{{ SITEURL }}/{{ article.image }}" alt="{{ SITEURL }}/{{ article.title }} Image" class="article img">
+		{% endif %}
+		
+		<p>
+        	{{ article.content }}
+		</p>
+
+    </section>
+
+{% endblock %}
+
+</body>
+</html>
+

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+    <h1>Unleash Your NERF Power</h1>
+    <p>Join the NERF revolution! Discover the latest blasters and stay updated with the newest trends in the NERF community. Engage with fellow enthusiasts and explore exciting events worldwide.</p>
+</section>
+
+<section class="latest-articles">
+    <h2>Latest Articles</h2>
+    <p>Stay updated with the latest trends and events in the NERF community.</p>
+<ul>
+    {% for article in articles[:3] %}
+        
+        <div class="articles-container">
+            <div class="article">
+                <img src="{{ SITEURL }}/{{ article.image }}" alt="newest NERF gears and equipments">
+                <h3>"{{ article.title }}"</h3>
+                <p>Discover the newest NERF gears!</p>
+                <a href="{{ SITEURL }}/{{ article.url }}" class="read-more">Read More</a>
+        </div>
+        
+         <!--
+         <li>
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            <small>({{ article.date.strftime('%Y-%m-%d') }})</small>
+        </li>
+        -->
+    {% endfor %}
+</ul>
+{% endblock %}
+
+</section>
