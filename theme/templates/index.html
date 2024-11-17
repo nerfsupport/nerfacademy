@@ -3,31 +3,45 @@
 {% block content %}
 <section class="hero">
     <h1>Unleash Your NERF Power</h1>
-    <p>Join the NERF revolution! Discover the latest blasters and stay updated with the newest trends in the NERF community. Engage with fellow enthusiasts and explore exciting events worldwide.</p>
+    <p>Join the NERF revolution! Discover the latest blasters and stay updated with the newest trends in the NERF community.</p>
 </section>
+
 
 <section class="latest-articles">
-    <h2>Latest Articles</h2>
-    <p>Stay updated with the latest trends and events in the NERF community.</p>
-<ul>
-    {% for article in articles[:3] %}
-        
-        <div class="articles-container">
-            <div class="article">
-                <img src="{{ SITEURL }}/{{ article.image }}" alt="newest NERF gears and equipments">
-                <h3>"{{ article.title }}"</h3>
-                <p>Discover the newest NERF gears!</p>
-                <a href="{{ SITEURL }}/{{ article.url }}" class="read-more">Read More</a>
-        </div>
-        
-         <!--
-         <li>
-            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-            <small>({{ article.date.strftime('%Y-%m-%d') }})</small>
-        </li>
-        -->
-    {% endfor %}
-</ul>
-{% endblock %}
+    <h2>Articles</h2>
 
+    <header class="search-header">
+        <form id="search-form" class="search-form" onsubmit="return handleSearch(event)">
+            <input
+                type="text"
+                id="search-input"
+                class="search-input"
+                placeholder="Search articles..."
+                aria-label="Search"
+                onkeyup="searchArticles()"
+            />
+            <button type="submit" class="search-button" onclick="searchArticles()">
+                🔍
+            </button>
+        </form>
+    </header>
+
+    <div class="articles-grid">
+        {% for article in articles %}
+        <div class="article-card">
+            <a href="{{ SITEURL }}/{{ article.url }}">
+                <img src="{{ SITEURL }}/{{ article.image }}" alt="{{ article.title }}" class="article-image">
+            </a>
+            <div class="article-details">
+                <h3>{{ article.title }}</h3>
+                <span class="article-meta">{{ article.date | strftime('%b %d, %Y') }}</span>
+                <a href="{{ SITEURL }}/{{ article.url }}" class="read-more">Read More</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="text-center mt-4">
+        <button id="load-more" class="load-more-btn">Load More</button>
+    </div>
 </section>
+{% endblock %}
