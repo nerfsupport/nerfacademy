@@ -31,3 +31,9 @@ jobs:
     - name: Build html
       run: |
         pelican content -s pelicanconf.py
+    - name: Deployment
+       uses: peaceiris/actions-gh-pages@v4
+       if: github.ref == 'refs/heads/master'
+       with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
