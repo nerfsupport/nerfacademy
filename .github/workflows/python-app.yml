@@ -47,5 +47,5 @@ jobs:
     - name: Verify Output Directory
       run: |
         echo "Listing files in output directory:"
-        ls -la output
+        ls -la output/images
         
