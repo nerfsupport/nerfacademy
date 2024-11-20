@@ -36,7 +36,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v4
       if: github.ref == 'refs/heads/master'
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.DEPLOY_PAT }}
         publish_dir: ./output
         publish_branch: gh-pages
         
