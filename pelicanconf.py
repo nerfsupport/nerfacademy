@@ -38,7 +38,7 @@ OUTPUT_PATH = 'output'
 THEME = 'theme'
 THEME_TEMPLATES_OVERRIDES = ['theme/templates']
 THEME_STATIC_PATHS = ['static']
-#STATIC_PATHS = ['css', 'images', 'files']
+STATIC_PATHS = ['images']
 
 # Blogroll
 LINKS = (
