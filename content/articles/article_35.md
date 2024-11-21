@@ -1,7 +1,7 @@
 ---
 Title: Unique NERF blaster designs and colors
 Date: 2024-11-17
-Image: ../images/image_35.webp
+Image: images/image_35.webp
 ---
 
 ## Beyond the Basic:  Unique NERF Blaster Designs & Colors

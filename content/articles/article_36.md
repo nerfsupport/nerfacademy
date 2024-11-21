@@ -1,7 +1,7 @@
 ---
 Title: NERF blaster accessories and add-ons
 Date: 2024-11-17
-Image: ../images/image_36.webp
+Image: images/image_36.webp
 ---
 
 ## Level Up Your NERF Game: Accessories and Add-ons to Unleash Your Inner Sniper

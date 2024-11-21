@@ -1,7 +1,7 @@
 ---
 Title: How far can a NERF blaster shoot?
 Date: 2024-11-17
-Image: ../images/image_47.webp
+Image: images/image_47.webp
 ---
 
 ## How Far Can a NERF Blaster Shoot?  

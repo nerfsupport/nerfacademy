@@ -1,7 +1,7 @@
 ---
 Title: Top 5 NERF blasters for 2-player battles
 Date: 2024-11-17
-Image: ../images/image_23.webp
+Image: images/image_23.webp
 ---
 
 ## Feeling Competitive? Top 5 NERF Blasters for Epic 2-Player Battles

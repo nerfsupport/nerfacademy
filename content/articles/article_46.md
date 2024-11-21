@@ -1,7 +1,7 @@
 ---
 Title: NERF blasters vs. other toy blasters
 Date: 2024-11-17
-Image: ../images/image_46.webp
+Image: images/image_46.webp
 ---
 
 ## NERF vs. the World:  Which Toy Blaster Reigns Supreme?

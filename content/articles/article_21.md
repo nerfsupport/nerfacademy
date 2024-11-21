@@ -1,7 +1,7 @@
 ---
 Title: Are NERF blasters safe for young children?
 Date: 2024-11-17
-Image: ../images/image_21.webp
+Image: images/image_21.webp
 ---
 
 ##  Are NERF Blasters Safe for Young Children?

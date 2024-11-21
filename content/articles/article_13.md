@@ -1,7 +1,7 @@
 ---
 Title: History of NERF blasters and their evolution
 Date: 2024-11-17
-Image: ../images/image_13.webp
+Image: images/image_13.webp
 ---
 
 # From Parking Lot Play to Competitive Sport: The Evolution of Nerf Blasters

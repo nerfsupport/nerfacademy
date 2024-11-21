@@ -1,7 +1,7 @@
 ---
 Title: NERF blaster with highest dart capacity
 Date: 2024-11-17
-Image: ../images/image_16.webp
+Image: images/image_16.webp
 ---
 
 ##  Supercharge Your Nerf Game: Blastin' with the Largest Dart Magazines

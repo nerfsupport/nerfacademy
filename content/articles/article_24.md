@@ -1,7 +1,7 @@
 ---
 Title: Can NERF blasters be customized?
 Date: 2024-11-17
-Image: ../images/image_24.webp
+Image: images/image_24.webp
 ---
 
 ## Can You Customize Your NERF Blaster? Absolutely! 

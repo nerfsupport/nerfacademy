@@ -1,7 +1,7 @@
 ---
 Title: Where to buy rare NERF blasters online
 Date: 2024-11-17
-Image: ../images/image_10.webp
+Image: images/image_10.webp
 ---
 
 ## Where to Find Your Next Rare NERF Treasure: Online Sources for Collectors

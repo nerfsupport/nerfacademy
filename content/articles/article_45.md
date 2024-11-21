@@ -1,7 +1,7 @@
 ---
 Title: Best Nerf blasters for speed and rapid fire
 Date: 2024-11-17
-Image: ../images/image_45.webp
+Image: images/image_45.webp
 ---
 
 ## Nerf Speed Demon: Top Blasters for Rapid Fire Mayhem 

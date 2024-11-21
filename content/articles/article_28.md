@@ -1,7 +1,7 @@
 ---
 Title: Painting tips for customizing a NERF blaster
 Date: 2024-11-17
-Image: ../images/image_28.webp
+Image: images/image_28.webp
 ---
 
 ## Pep Up Your Blaster: A Guide to Painting Your NERF Gun

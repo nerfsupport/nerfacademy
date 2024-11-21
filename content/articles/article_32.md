@@ -1,7 +1,7 @@
 ---
 Title: Can NERF blasters be used indoors safely?
 Date: 2024-11-17
-Image: ../images/image_32.webp
+Image: images/image_32.webp
 ---
 
 ## Can NERF Blasters Be Used Indoors Safely?

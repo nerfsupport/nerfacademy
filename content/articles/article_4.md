@@ -1,7 +1,7 @@
 ---
 Title: Differences between NERF Elite, Mega, Ultra, and Rival series
 Date: 2024-11-17
-Image: ../images/image_4.webp
+Image: images/image_4.webp
 ---
 
 ## Choosing Your Blaster: A Guide to NERF Elite, Mega, Ultra, and Rival

@@ -1,7 +1,7 @@
 ---
 Title: Ultimate guide to NERF blasters
 Date: 2024-11-17
-Image: ../images/image_8.webp
+Image: images/image_8.webp
 ---
 
 ## 💥 The Ultimate Guide to NERF Blasters: From Beginner to Champion 💥

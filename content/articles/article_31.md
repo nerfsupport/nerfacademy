@@ -1,7 +1,7 @@
 ---
 Title: Tips for choosing NERF blasters for family fun
 Date: 2024-11-17
-Image: ../images/image_31.webp
+Image: images/image_31.webp
 ---
 
 ## NERF Your Way to Family Fun: A Guide to Picking the Perfect Blaster

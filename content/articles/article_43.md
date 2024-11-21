@@ -1,7 +1,7 @@
 ---
 Title: Differences between official and third-party NERF darts
 Date: 2024-11-17
-Image: ../images/image_43.webp
+Image: images/image_43.webp
 ---
 
 ## Official vs. Third-Party NERF Darts: What's the Difference?

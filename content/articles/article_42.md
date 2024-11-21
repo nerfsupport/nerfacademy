@@ -1,7 +1,7 @@
 ---
 Title: Most iconic NERF blasters from the 90s
 Date: 2024-11-17
-Image: ../images/image_42.webp
+Image: images/image_42.webp
 ---
 
 ##  Reliving the Glory: Most Iconic NERF Blasters of the 90s

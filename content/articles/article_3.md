@@ -1,7 +1,7 @@
 ---
 Title: NERF blaster reviews for kids and adults
 Date: 2024-11-17
-Image: ../images/image_3.webp
+Image: images/image_3.webp
 ---
 
 ## NERF Or Bust: Reviews to Help You Choose the Perfect Blaster

@@ -1,7 +1,7 @@
 ---
 Title: NERF blasters with the coolest designs
 Date: 2024-11-17
-Image: ../images/image_22.webp
+Image: images/image_22.webp
 ---
 
 ##  Level Up Your Foam Game: NERF Blasters with Jaw-Dropping Designs 

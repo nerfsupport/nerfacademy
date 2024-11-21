@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blaster deals and discounts for the holidays
 Date: 2024-11-17
-Image: ../images/image_50.webp
+Image: images/image_50.webp
 ---
 
 ##  Score Epic NERF Battles This Holiday: Best Deals and Discounts on Blasters! 

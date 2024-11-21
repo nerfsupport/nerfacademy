@@ -1,7 +1,7 @@
 ---
 Title: Top-rated NERF dart refills and clips
 Date: 2024-11-17
-Image: ../images/image_37.webp
+Image: images/image_37.webp
 ---
 
 ## Level Up Your NERF Game: Top-Rated Dart Refills and Clips

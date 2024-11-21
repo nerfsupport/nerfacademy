@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blasters for long-range shooting
 Date: 2024-11-17
-Image: ../images/image_20.webp
+Image: images/image_20.webp
 ---
 
 ## Conquer the Distance: Best NERF Blasters for Long-Range Domination 🎯

@@ -1,7 +1,7 @@
 ---
 Title: DIY NERF blaster mods for beginners
 Date: 2024-11-17
-Image: ../images/image_26.webp
+Image: images/image_26.webp
 ---
 
 ##  Step Up Your NERF Game: Beginner-Friendly Mods 

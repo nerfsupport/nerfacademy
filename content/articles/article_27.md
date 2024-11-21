@@ -1,7 +1,7 @@
 ---
 Title: How to increase NERF blaster shooting power
 Date: 2024-11-17
-Image: ../images/image_27.webp
+Image: images/image_27.webp
 ---
 
 # Unleash the Beast: How to Amplify Your NERF Blasters' Power

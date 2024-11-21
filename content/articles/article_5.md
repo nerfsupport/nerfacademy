@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blaster for beginners
 Date: 2024-11-17
-Image: ../images/image_5.webp
+Image: images/image_5.webp
 ---
 
 ##  Level Up Your Nerf Game: The Best Blasters for Beginners 🚀

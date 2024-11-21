@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blasters for large group battles
 Date: 2024-11-17
-Image: ../images/image_34.webp
+Image: images/image_34.webp
 ---
 
 # Amp Up Your Blaster Arsenal: Best NERF Guns for Large Group Battles

@@ -1,7 +1,7 @@
 ---
 Title: Best storage ideas for NERF blasters
 Date: 2024-11-17
-Image: ../images/image_39.webp
+Image: images/image_39.webp
 ---
 
 ## Level Up Your NERF Game:  The Best Storage Ideas for Blasters

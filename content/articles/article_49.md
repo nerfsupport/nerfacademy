@@ -1,7 +1,7 @@
 ---
 Title: Fastest firing NERF blasters
 Date: 2024-11-17
-Image: ../images/image_49.webp
+Image: images/image_49.webp
 ---
 
 ##  Nerf War Domination: The Fastest Firing Blasters

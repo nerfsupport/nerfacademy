@@ -1,7 +1,7 @@
 ---
 Title: NERF Rival vs. NERF Mega: which is better?
 Date: 2024-11-17
-Image: ../images/image_33.webp
+Image: images/image_33.webp
 ---
 
 ## NERF Rival vs. NERF Mega: Which Foam Fury Reigns Supreme?

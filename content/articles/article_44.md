@@ -1,7 +1,7 @@
 ---
 Title: Are there rechargeable NERF blasters?
 Date: 2024-11-17
-Image: ../images/image_44.webp
+Image: images/image_44.webp
 ---
 
 ## Does Nerf Make Rechargeable Blasters?

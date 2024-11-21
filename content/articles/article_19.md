@@ -1,7 +1,7 @@
 ---
 Title: Top NERF blasters for close combat
 Date: 2024-11-17
-Image: ../images/image_19.webp
+Image: images/image_19.webp
 ---
 
 ## Dominate the Close Quarters: Top NERF Blasters for CQB

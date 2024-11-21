@@ -1,7 +1,7 @@
 ---
 Title: NERF Ultra darts vs. NERF Rival rounds
 Date: 2024-11-17
-Image: ../images/image_40.webp
+Image: images/image_40.webp
 ---
 
 ## NERF Ultra vs. NERF Rival: Which Dart Reigns Supreme?

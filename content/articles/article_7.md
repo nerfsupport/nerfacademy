@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blaster for accuracy and range
 Date: 2024-11-17
-Image: ../images/image_7.webp
+Image: images/image_7.webp
 ---
 
 ##  Unleash Your Inner Sharpshooter: Searching for the Most Accurate and Long-Range NERF Blasters 

@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blasters for adults and teens
 Date: 2024-11-17
-Image: ../images/image_15.webp
+Image: images/image_15.webp
 ---
 
 ##  Level Up Your Game: Best NERF Blasters for Adults and Teens 

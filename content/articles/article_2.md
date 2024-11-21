@@ -1,7 +1,7 @@
 ---
 Title: Top-rated NERF blasters of all time
 Date: 2024-11-17
-Image: ../images/image_2.webp
+Image: images/image_2.webp
 ---
 
 ##  Nerf Wars: A History of the Top-Rated Blasters 

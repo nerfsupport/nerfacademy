@@ -1,7 +1,7 @@
 ---
 Title: Popular NERF blaster tournaments and events
 Date: 2024-11-17
-Image: ../images/image_29.webp
+Image: images/image_29.webp
 ---
 
 ##  Calling All Blasters: A Guide to the Best NERF Tournaments & Events!

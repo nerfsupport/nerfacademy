@@ -1,7 +1,7 @@
 ---
 Title: How to maintain a NERF blaster
 Date: 2024-11-17
-Image: ../images/image_38.webp
+Image: images/image_38.webp
 ---
 
 ## Keep Your Blasters Firing Like New: A Guide to NERF Blaster Maintenance 

@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blasters for outdoor battles
 Date: 2024-11-17
-Image: ../images/image_11.webp
+Image: images/image_11.webp
 ---
 
 ##  Gear Up for Epic Battles: The Best NERF Blasters for Outdoor Warfare 

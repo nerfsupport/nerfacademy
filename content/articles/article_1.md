@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blasters for 2024
 Date: 2024-11-17
-Image: ../images/image_1.webp
+Image: images/image_1.webp
 ---
 
 ## 💥 Get Ready to Rumble: The Best NERF Blasters of 2024 💥

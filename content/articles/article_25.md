@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blaster mods and upgrades
 Date: 2024-11-17
-Image: ../images/image_25.webp
+Image: images/image_25.webp
 ---
 
 # Level Up Your Game: Best NERF Blaster Mods and Upgrades 

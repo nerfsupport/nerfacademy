@@ -1,7 +1,7 @@
 ---
 Title: Best NERF guns for competitive play
 Date: 2024-11-17
-Image: ../images/image_48.webp
+Image: images/image_48.webp
 ---
 
 ## Level Up Your Game: Top NERF Blasters for Competitive Play 

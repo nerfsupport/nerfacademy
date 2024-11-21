@@ -1,7 +1,7 @@
 ---
 Title: Affordable NERF blasters under $20
 Date: 2024-11-17
-Image: ../images/image_9.webp
+Image: images/image_9.webp
 ---
 
 ##  Dominate the Nerf Battle on a Budget: Top Picks Under $20!

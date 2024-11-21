@@ -1,7 +1,7 @@
 ---
 Title: Biggest NERF battle events worldwide
 Date: 2024-11-17
-Image: ../images/image_30.webp
+Image: images/image_30.webp
 ---
 
 ##  Calling All Blaster Masters:  The World's Biggest NERF Battles 🤯💥

@@ -1,7 +1,7 @@
 ---
 Title: Best NERF blasters for kids under 10
 Date: 2024-11-17
-Image: ../images/image_17.webp
+Image: images/image_17.webp
 ---
 
 ## Nerf Blasters That'll Have Tiny Targets Quaking! 🎯

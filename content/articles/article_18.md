@@ -1,7 +1,7 @@
 ---
 Title: Newest NERF blasters of 2024
 Date: 2024-11-17
-Image: ../images/image_18.webp
+Image: images/image_18.webp
 ---
 
 ## Get Ready to BLAST! Hottest NERF Blasters of 2024 

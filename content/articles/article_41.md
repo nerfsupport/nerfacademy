@@ -1,7 +1,7 @@
 ---
 Title: NERF blasters for target practice
 Date: 2024-11-17
-Image: ../images/image_41.webp
+Image: images/image_41.webp
 ---
 
 ##  Master the Bullseye: Target Practice with NERF Blasters 

@@ -1,7 +1,7 @@
 ---
 Title: Comparison of NERF Ultra vs. NERF Rival
 Date: 2024-11-17
-Image: ../images/image_12.webp
+Image: images/image_12.webp
 ---
 
 ## NERF Ultra vs. NERF Rival: Which Blaster Reigns Supreme? 

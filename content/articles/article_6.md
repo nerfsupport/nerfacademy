@@ -1,7 +1,7 @@
 ---
 Title: Most powerful NERF blaster on the market
 Date: 2024-11-17
-Image: ../images/image_6.webp
+Image: images/image_6.webp
 ---
 
 #  Dominate the Blaster Field: Unveiling the Most Powerful NERF Guns 

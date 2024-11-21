@@ -1,7 +1,7 @@
 ---
 Title: How to choose the best NERF blaster
 Date: 2024-11-17
-Image: ../images/image_14.webp
+Image: images/image_14.webp
 ---
 
 ## Target Acquired:  Finding the Perfect NERF Blaster for You
