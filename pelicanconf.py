@@ -6,7 +6,6 @@ TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = 'en'
 
 # for local development
-SITEURL = ''
 RELATIVE_URLS = True
 
 # Feed generation is usually not desired when developing
@@ -34,25 +33,11 @@ PAGE_SAVE_AS = '{slug}.html'
 
 OUTPUT_PATH = 'output'
 
-#THEME = 'notmyidea'
 THEME = 'theme'
 THEME_TEMPLATES_OVERRIDES = ['theme/templates']
 THEME_STATIC_PATHS = ['static']
 STATIC_PATHS = ['images']
 
-# Blogroll
-LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
-)
-
-# Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
 
 DEFAULT_PAGINATION = 15
 
