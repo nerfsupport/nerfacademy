@@ -34,7 +34,7 @@ jobs:
 
     - name: Build html
       run: |
-        pelican content -s pelicanconf.py
+        pelican content -s publishconf.py
 
     - name: Deployment
       uses: peaceiris/actions-gh-pages@v4
@@ -44,8 +44,4 @@ jobs:
         publish_dir: ./output
         publish_branch: gh-pages
 
-    - name: Verify Output Directory
-      run: |
-        echo "Listing files in output directory:"
-        ls -la output/images
         
