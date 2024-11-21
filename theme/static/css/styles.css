@@ -169,7 +169,7 @@ nav ul li a {
 /* Hero Section */
 .hero {
     height: 70vh;
-    background: url('theme/images/nerf-blasters-munitions.webp') no-repeat center center/cover;
+    background: url('../images/nerf-blasters-munitions.webp') no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
