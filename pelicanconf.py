@@ -1,6 +1,7 @@
 AUTHOR = 'Nerfcademia'
 SITENAME = 'Nerfcademia'
 SITEURL = ""
+SITE_DESCRIPTION = "Your go-to site for NERF blaster reviews, tips to dominate your next game!"
 
 TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = 'en'
