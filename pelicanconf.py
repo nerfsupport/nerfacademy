@@ -41,4 +41,19 @@ STATIC_PATHS = ['images']
 
 DEFAULT_PAGINATION = 15
 
+PLUGINS = ['pelican.plugins.sitemap']
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'pages': 0.7,
+        'indexes': 0.6,
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'pages': 'weekly',
+        'indexes': 'daily',
+    }
+}
+
 # ../venv/bin/pelican content -l -r -s pelicanconf.py
