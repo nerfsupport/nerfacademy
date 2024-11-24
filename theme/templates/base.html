@@ -12,6 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ SITENAME }} </title>
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/styles.css">
+    <meta name="description" content="{% if page is defined and page.description %}{{ page.description }}{% elif page is defined and page.summary %}{{ page.summary }}{% else %}Website for Nerf blasters experts and novices for better equipments, customization, challenges.{% endif %}">
 </head>
 <body>
     <!-- Google Tag Manager (noscript) -->
