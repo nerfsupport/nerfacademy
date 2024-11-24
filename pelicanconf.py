@@ -57,6 +57,6 @@ SITEMAP = {
     }
 }
 
-GOOGLE_ANALYTICS = 'G-ERGYCTRCMC'
+GOOGLE_ANALYTICS = ''
 
 # ../venv/bin/pelican content -l -r -s pelicanconf.py
