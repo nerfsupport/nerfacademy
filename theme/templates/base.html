@@ -11,6 +11,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ SITENAME }} </title>
+    <link rel="preload" href="{{ SITEURL }}/theme/images/nerf-blasters-munitions.webp" as="image">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/styles.css">
     <meta name="description" content="{% if page is defined and page.description %}{{ page.description }}{% elif page is defined and page.summary %}{{ page.summary }}{% else %}Website for Nerf blasters experts and novices for better equipments, customization, challenges.{% endif %}">
 </head>
@@ -59,17 +60,10 @@
 
     <div id="overlay" onclick="toggleMenu()"></div>
 
-    <!--
-    <section class="hero">
-        <h1>Unleash Your NERF Power</h1>
-        <p>Join the NERF revolution! Discover the latest blasters and stay updated with the newest trends in the NERF community. Engage with fellow enthusiasts and explore exciting events worldwide.</p>
-    </section>
-    -->
-
     <!-- Main content block -->
     <main>
         {% block content %}
-        <!-- Content from the article will be injected here -->
+        <!-- Content from the article injected here -->
         {% endblock %}
     </main>
 
