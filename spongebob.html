@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nerfcademia </title>
+    <link rel="preload" href="https://nerfsupport.github.io/nerfacademy/theme/images/nerf-blasters-munitions.webp" as="image">
+    <link rel="stylesheet" href="https://nerfsupport.github.io/nerfacademy/theme/css/styles.css">
+    <meta name="description" content="Website for Nerf blasters experts and novices for better equipments, customization, challenges.">
+</head>
+<body>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ERGYCTRCMC"></script>
+     <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+       gtag('config', 'G-ERGYCTRCMC');
+     </script>
+    <header>
+        <div class="logo">Nerfcademia</div>
+        <!-- Desktop navigation menu -->
+        <nav class="desktop-menu">
+            <ul>
+                <li><a href="https://nerfsupport.github.io/nerfacademy/index.html">Home</a></li>
+                <li><a href="https://nerfsupport.github.io/nerfacademy/blog.html">Blog</a></li>
+                <li><a href="https://nerfsupport.github.io/nerfacademy/about">About Us</a></li>
+            </ul>
+        </nav>
+
+        <!-- Hamburger menu icon for mobile -->
+        <div class="menu-icon" onclick="toggleMenu()">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+        <!-- Responsive navigation menu -->
+        <nav id="mobileMenu">
+            <ul>
+                <li><a href="https://nerfsupport.github.io/nerfacademy/index.html">Home</a></li>
+                <li><a href="https://nerfsupport.github.io/nerfacademy/blog.html">Blog</a></li>
+                <li><a href="https://nerfsupport.github.io/nerfacademy/about.html">About Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div id="overlay" onclick="toggleMenu()"></div>
+
+    <!-- Main content block -->
+    <main>
+<title>Fun Page</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        background-color: #1e1e1e;
+    }
+    .container {
+        margin-top: 50px;
+    }
+    .gif-container {
+        margin: 20px auto;
+    }
+    .gif-container img {
+        max-width: 80%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .sentence {
+        font-size: 1.5rem;
+        color: #a02d87;
+        margin-top: 20px;
+        margin-bottom: 80px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="gif-container">
+        <img src="images/spongebob.webp" alt="Funny GIF">
+    </div>
+    <div class="sentence" id="spongebob">
+        Loading a funny sentence...
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const sentences = [
+            "Le pouvoir d'achat c'est comme le PQ, on se rend compte qu'il en manque quand c'est déjà trop tard",
+                "Le pouvoir d'achat c'est comme le PQ, plus on en a, plus on le gaspille",
+                "Le pouvoir d'achat c'est comme le PQ, t'en as toujours moins que ce que t'avais calculé.",
+                "Le pouvoir d'achat c'est comme le PQ, y'en a toujours moins sur le rouleau quand c'est toi qui payes.",
+                "Le pouvoir d'achat c'est comme le PQ, plus ça diminue, plus ça devient urgent",
+                "Le pouvoir d'achat c'est comme le PQ, indispensable mais toujours en rupture de stock",
+                "Le pouvoir d'achat c'est comme le PQ, dès qu'il y en a moins, tout le monde panique",
+                "Le pouvoir d'achat c'est comme le PQ, tu sais qu'il faut économiser, mais parfois, t'as pas le choix, tu dois y aller franco.",              
+                "Le pouvoir d'achat c'est comme le PQ, les premiers jours tout va bien, mais à la fin, ça devient tendu.",              
+                "Le pouvoir d'achat c'est comme le PQ, les prix montent, mais la qualité... ça gratte toujours un peu.", 
+                "Le pouvoir d'achat c'est comme le PQ, tu penses toujours qu'il va durer jusqu'à la fin du mois, mais il part en fumée dès le 15.",             
+                "Le pouvoir d'achat, c'est comme le papier toilette, plus les prix montent, plus les rouleaux sont petits. Bientôt, on va vendre des feuilles à l'unité, genre 'édition limitée' !",
+                "Le pouvoir d'achat, c'est comme le papier toilette, au début tu prends du triple épaisseur et à la fin tu finis avec des mouchoirs récupérés dans ton vieux manteau.",
+
+        ];
+
+        // Pick a random sentence
+        const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
+        
+        // Display it in the HTML
+        document.getElementById("spongebob").textContent = randomSentence;
+    });
+</script>
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section about">
+                <h2>About Us</h2>
+                <p>We are a passionate team of NERF blaster enthusiasts empowering the wonderful power of AI to give you all infos you need to know about blasters.</p>
+            </div>
+            
+            <div class="footer-section links">
+                <h2>Quick Links</h2>
+                <ul>
+                    <li><a href="https://nerfsupport.github.io/nerfacademy/index.html">Home</a></li>
+                    <li><a href="https://nerfsupport.github.io/nerfacademy/blog.html">Blog</a></li>
+                    <li><a href="https://nerfsupport.github.io/nerfacademy/about.html">About us</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section social">
+                <h2>Follow Us</h2>
+                <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
+                <a href="#"><i class="fab fa-twitter"></i> Twitter</a>
+                <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+            </div>
+    
+        <div class="footer-bottom">
+            <p>&copy; 2024 Nerfcademia. All Rights Reserved.</p>
+        </div>
+    </footer>
+    
+
+    <script src="https://nerfsupport.github.io/nerfacademy/theme/js/script.js"></script>
+  
+</body>
+</html>
