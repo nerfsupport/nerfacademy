@@ -1,9 +1,9 @@
 ---
 Title: About Us
 Date: 2024-11-11
-Category: pages
-slug: about
-Image: /images/image_about.webp
+Template: about
+Slug: about
+Image: images/image_about.webp
 ---
 
 We are a passionate team of NERF blaster enthusiasts, deeply dedicated to exploring, innovating, and sharing everything about the world of foam dart blasters. With years of hands-on experience and a genuine love for the NERF universe, we are experts in understanding the mechanics, strategies, and customizations that make each blaster unique.
