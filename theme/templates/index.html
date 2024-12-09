@@ -6,7 +6,6 @@
     <p>Join the NERF revolution! Discover the latest blasters and stay updated with the newest trends in the NERF community.</p>
 </section>
 
-
 <section class="latest-articles">
     <h2>Articles</h2>
 
@@ -20,7 +19,7 @@
                 aria-label="Search"
                 onkeyup="searchArticles()"
             />
-            <button type="submit" class="search-button" onclick="searchArticles()">
+            <button type="submit" class="search-button" > 
                 🔍
             </button>
         </form>
@@ -32,7 +31,7 @@
             <a href="{{ SITEURL }}/{{ article.url }}">
                 <img src="{{ SITEURL }}/{{ article.image }}" alt="{{ article.title }}" loading="lazy" class="article-image">
             </a>
-            <div class="article-details">
+            <div class="article-details" data-title="{{ article.title }}">
                 <h3>{{ article.title }}</h3>
                 <span class="article-meta">{{ article.date | strftime('%b %d, %Y') }}</span>
                 <a href="{{ SITEURL }}/{{ article.url }}" class="read-more" aria-label="Read more about {{ article.title }}">Read More</a>
@@ -44,4 +43,5 @@
         <button id="load-more" class="load-more-btn">Load More</button>
     </div>
 </section>
+
 {% endblock %}

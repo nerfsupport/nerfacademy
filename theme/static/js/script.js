@@ -50,18 +50,27 @@ document.addEventListener('DOMContentLoaded', function () {
 // search function
 function searchArticles() {
     // Get the search input value
-    let query = document.getElementById('search-input').value.toLowerCase();
-    
-    // Get all the articles
-    let articles = document.querySelectorAll('.article');
-    
+    const query = document.getElementById('search-input').value.toLowerCase().trim();
+
+    // Get all article cards
+    const articles = document.querySelectorAll('.article-card');
+
     // Loop through all articles and check if their titles contain the search query
-    articles.forEach(function(article) {
-        let title = article.getAttribute('data-title').toLowerCase(); // Use data-title for easier access
+    articles.forEach((article, index) => {
+        // Get the article title from the data-title attribute in the article-details
+        const title = article.querySelector('.article-details').getAttribute('data-title').toLowerCase();
+
+        // Check if the title contains the search query
         if (title.includes(query)) {
-            article.style.display = 'block';  // Show article if title matches
+            article.style.display = 'block'; // Show the entire article card
         } else {
-            article.style.display = 'none';   // Hide article if title doesn't match
+            article.style.display = 'none'; // Hide the entire article card
         }
     });
+}
+
+
+function handleSearch(event) {
+    event.preventDefault();  
+    searchArticles();  
 }
