@@ -27,16 +27,15 @@ Nerf blasters have evolved beyond toys, becoming iconic symbols in movies, TV sh
 ## Nerf in Animé and Cartoons
 
 While not directly seen in animé, Nerf blasters inspire toy-like weapons in shows like:
-- **"Digimon" and "Yu-Gi-Oh!"**: Imaginative gadgets echo Nerf designs.
-- **Western Cartoons**: *"Teen Titans Go!"* and *"Phineas and Ferb"* feature toy blasters in fun contexts.
+* **"Digimon" and "Yu-Gi-Oh!"**: Imaginative gadgets echo Nerf designs.
+* **Western Cartoons**: *"Teen Titans Go!"* and *"Phineas and Ferb"* feature toy blasters in fun contexts.
 
 ## Pop Culture Impact
 
 Nerf blasters frequently appear in:
-- **YouTube and Social Media**: Channels dedicated to Nerf battles, mods, and reviews.
-- **Fan Films**: Sci-fi and action creators modify Nerf blasters as props.
+* **YouTube and Social Media**: Channels dedicated to Nerf battles, mods, and reviews.
+* **Fan Films**: Sci-fi and action creators modify Nerf blasters as props.
 
 
 To resume, Nerf blasters evoke fun, creativity, and nostalgia, making them a favorite in media and culture. Visit our site for more on Nerf history, community events, and creative uses!
 
----
